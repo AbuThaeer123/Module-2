@@ -10,11 +10,13 @@ To write a Python program that defines a **lambda function** which takes two arg
 
 ## 🧾 Program
 ```
-a=16
-print(bin(a)
+a=int(input())
+b=int(input()) 
+f=lambda a,b: a+b 
+print(f(a,b)
 ```
 ## Output
-<img width="575" height="285" alt="image" src="https://github.com/user-attachments/assets/1755794f-71cd-4823-92cf-02fc733f22ef" />
+<img width="515" height="231" alt="image" src="https://github.com/user-attachments/assets/88c28dec-915c-47dd-9e7c-972417f467ca" />
 
 ## Result
 Thus, the program has been successfully executed.
